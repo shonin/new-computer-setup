@@ -17,3 +17,4 @@ create_better_defaults() {
 
 setup_user
 create_aliases
+create_better_defaults
