@@ -33,7 +33,6 @@ configure_ssh() {
 
     echo Your public SSH key has been copied to your clipboard for you.
     echo Go to https://github.com/settings/keys to add it to your GitHub account.
-    read -p "Press enter when this has been done: " entered
 
     generate_ssh_config >> $SSH_DIR/config
 }
