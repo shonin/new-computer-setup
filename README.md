@@ -2,8 +2,8 @@
 
 *designed with Mac in mind*
 
-run each with `$ ./script_name.sh 2>&1`
+run each with `$ ./script_name.sh`
 
 if they won't execute that command is `$ chmod a+x script_name.sh`
 
-you're welcome, future me. 
+you're welcome, future me.
