@@ -1,6 +1,6 @@
 readonly SSH_DIR=${HOME}/.ssh
 readonly SSH_KEY=${SSH_DIR}/imac
-readonly EMAIL=elliot.charney@ithaka.org
+readonly EMAIL=elliotcharney@gmail.com
 
 generate_ssh_config() {
     cat <<CONFIG
