@@ -1,6 +1,6 @@
 setup_user() {
   git config --global user.name "Elliot Charney"
-  git config --global user.email elliot.charney@ithaka.org
+  git config --global user.email elliotcharney@gmail.com
 }
 
 create_aliases() {
